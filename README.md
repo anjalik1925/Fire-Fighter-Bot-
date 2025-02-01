@@ -38,7 +38,6 @@ cd firefighter-bot
 📦 Install Arduino IDE & Libraries
 
 Download and install Arduino IDE 2 from Arduino.cc.
-
 Install required libraries in Arduino IDE.
 
 🛠 Upload the Code to Arduino
@@ -50,28 +49,25 @@ Install required libraries in Arduino IDE.
 🔥 Run the Fire Detection System
 
 Ensure all sensors and motors are connected correctly.
-
 Power the bot using a 9V battery or external power supply.
-
 The bot will autonomously detect and extinguish fires.
 
-🎯 Future Enhancements
 
+🎯 Future Enhancements
 📌 🤖 AI-based Fire Risk Prediction – Implement ML-based fire risk assessment.📌 📡 IoT Integration – Enable remote monitoring and real-time alerts.📌 🎥 Thermal Camera Integration – Improve fire detection accuracy.📌 🔊 Audio Alerts – Implement sirens or alerts for nearby personnel.
 
+
 🤝 Contributing
-
 We welcome contributions! 🚀📌 Fork the repository📌 Submit Issues📌 Create Pull Requests
-
 Feel free to improve the project and add new features!
 
-✨ Connect with Us
 
+✨ Connect with Us
 For queries or collaborations, reach out via email or open an issue!
 
 Team Members:
-Livya Falodia
-Anjali Kumari
+Livya Falodia,
+Anjali Kumari,
 Gauri Chapra
 
 🚀 Feel free to star ⭐ this repo & contribute!🔥 Happy Coding! 🎉
